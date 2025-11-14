@@ -7,7 +7,8 @@ This project supports stakeholders with complete, centralized, data-driven insig
 
 I completed this project by following the Codebasics Power BI Course.  
  
-👉 **Live Report Link:** https://www.novypro.com/project/atliq-hardware-business-insights-360
+👉 **Live Report Link:** https://app.powerbi.com/view?r=eyJrIjoiNjg1NzIyZTEtMjNhNi00YmI0LWI2MGEtYmY4M2RiMmQ4NDAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 
 ---
 
@@ -203,4 +204,5 @@ This dashboard allows AtliQ Hardware to make fast, accurate, data-driven decisio
 Stakeholders can analyze KPIs, identify issues, and answer “why” questions with clarity.
 
 ---
+
 
